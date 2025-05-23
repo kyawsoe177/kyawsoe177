@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am a data enthusiastic with expertise in data analysis, visualization, and problem-solving. I am eager to apply my analytical skills and enthusiasm in a professional environment where I can continue to grow and contribute meaningfully.
+
+
 <!--
 **kyawsoe177/kyawsoe177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
